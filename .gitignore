@@ -1,0 +1,6 @@
+/.idea
+/.vscode
+/.env
+/hosts
+*.log
+.DS_Store
